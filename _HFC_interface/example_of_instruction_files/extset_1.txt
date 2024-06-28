@@ -1,0 +1,12 @@
+
+#  1
+USER Nour
+HOLDER 1
+NAME 240520_yield_optimization
+EXPNO 1
+SOLVENT EtOD
+PARAMETERS d1,5,ns,1,o1,5
+EXPERIMENT PROTON_Nour
+TITLE on flow exp: res time 7.6 min - reag2: 1.2 equiv. - reag3: 0.08 equiv.
+
+End

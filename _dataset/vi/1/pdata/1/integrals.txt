@@ -1,0 +1,7 @@
+   Current data set:
+   NAME =	NES_240425_BBI_CheckChemReact	EXPNO =	76	PROCNO = 1
+   DU   =	C:/Users/elsabbagh-n/Documents/DataSet
+
+   Number   Integrated Region     Integral
+     1      6.573      6.510         1.22455
+     2      6.201      6.165         1.00000

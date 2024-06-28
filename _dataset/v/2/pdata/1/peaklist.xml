@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2024-05-30T12:42:41">
+  <PeakList1D>
+    <PeakList1DHeader creator="elsabbagh-n" date="2024-05-30T12:42:41" expNo="5" name="NES_240528_BBI_CheckPurProd" owner="" procNo="1" source="C:\Users\elsabbagh-n\Documents\DataSet">
+      <PeakPickDetails>F1=196.858383ppm, F2=79.715492ppm, MI=0.29cm, MAXI=2.11cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="196.147186" intensity="1.091009" type="0"/>
+    <Peak1D F1="173.866806" intensity="0.7580299" type="0"/>
+    <Peak1D F1="131.283646" intensity="0.9449232" type="0"/>
+    <Peak1D F1="123.577477" intensity="1.684205" type="0"/>
+    <Peak1D F1="121.771751" intensity="1.568947" type="0"/>
+    <Peak1D F1="115.515083" intensity="0.9369615" type="0"/>
+    <Peak1D F1="109.645523" intensity="1.007677" type="0"/>
+    <Peak1D F1="82.693138" intensity="0.8174614" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="elsabbagh-n" date="2024-05-30T12:42:41" expNo="5" name="NES_240528_BBI_CheckPurProd" owner="" procNo="1" source="C:\Users\elsabbagh-n\Documents\DataSet">
+      <PeakPickDetails>F1=43.267151ppm, F2=11.702147ppm, MI=0.61cm, MAXI=3.22cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="41.365215" intensity="1.020285" type="0"/>
+    <Peak1D F1="35.811684" intensity="1.318289" type="0"/>
+    <Peak1D F1="28.187664" intensity="0.8064352" type="0"/>
+    <Peak1D F1="26.545607" intensity="1.155293" type="0"/>
+    <Peak1D F1="24.50893" intensity="2.109096" type="0"/>
+    <Peak1D F1="22.313519" intensity="1.27328" type="0"/>
+    <Peak1D F1="20.37303" intensity="0.8379795" type="0"/>
+    <Peak1D F1="16.325817" intensity="1.474367" type="0"/>
+  </PeakList1D>
+</PeakList>

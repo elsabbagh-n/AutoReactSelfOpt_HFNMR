@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= elsabbagh-n
+$$ 2024-05-29 15:47:47.460 +0200  elsabbagh-n@P21-17
+$$ C:/Users/elsabbagh-n/Documents/DataSet/NES_240528_BBI_CheckPurProd/6/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.7\prog\mod\dataserver.exe
+##$MULTDISP= <C:\Users\elsabbagh-n\Documents\DataSet\NES_240528_BBI_CheckPurProd\2\pdata\1|C:\Users\elsabbagh-n\Documents\DataSet\NES_240528_BBI_CheckPurProd\1\pdata\1>
+##END=

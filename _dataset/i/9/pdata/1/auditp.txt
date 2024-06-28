@@ -1,0 +1,55 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/nmrdata/user/nmr/Nour/NES_230720_BBI_PrepareChemReact/9/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-07-20 11:45:28.913 +0200>,<nmr>,<CZC912DKQJ>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2023-07-20 11:45:17.870 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       08 AA 97 EE F2 54 EF E2 36 10 4B AB B0 0F 87 5B
+       data hash MD5: 64K
+       6F 90 C7 A6 E9 F4 6E 88 FA 9E 0A 24 62 38 CB 54>)
+(   2,<2023-07-20 11:46:30.064 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -147.9838 PHC1 = 17.72803 SI = 64K 
+       data hash MD5: 64K
+       DB 46 6E 86 17 7D 55 85 BD 90 89 8C 93 03 99 05>)
+(   3,<2023-07-20 11:46:30.075 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       62 B0 E6 53 92 55 5F 63 FF 36 D3 1A 7D 0C 6E CD>)
+(   4,<2023-07-20 11:46:35.206 +0200>,<nmr>,<CZC912DKQJ>,<audit>,<TopSpin 3.6.2>,
+      <user comment:
+       TITLE=sol CTITLE_END
+       data hash MD5: 64K
+       62 B0 E6 53 92 55 5F 63 FF 36 D3 1A 7D 0C 6E CD>)
+(   5,<2023-07-20 11:46:35.919 +0200>,<nmr>,<CZC912DKQJ>,<audit>,<TopSpin 3.6.2>,
+      <user comment:
+       TITLE=sol CTITLE_END
+       data hash MD5: 64K
+       62 B0 E6 53 92 55 5F 63 FF 36 D3 1A 7D 0C 6E CD>)
+(   6,<2023-07-20 11:57:29.770 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <apk 
+       data hash MD5: 64K
+       01 32 6F 92 79 55 66 3D B7 E6 90 59 86 02 35 58>)
+(   7,<2023-07-20 11:57:30.795 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       4D 2F 04 CF B5 61 DE 8F 23 9A 65 15 5F 05 85 36>)
+(   8,<2023-07-20 11:57:40.794 +0200>,<nmr>,<CZC912DKQJ>,<dataserver>,<TopSpin 3.6.2>,
+      <INTEGRAL 2023-07-20 11:57:40.031 +0200
+       DEFINE [2.637;2.523]
+       data hash MD5: 64K
+       4D 2F 04 CF B5 61 DE 8F 23 9A 65 15 5F 05 85 36>)
+(   9,<2023-07-20 11:59:03.762 +0200>,<nmr>,<CZC912DKQJ>,<dataserver>,<TopSpin 3.6.2>,
+      <INTEGRAL 2023-07-20 11:59:01.125 +0200
+       DELETE [2.637;2.523]
+       data hash MD5: 64K
+       4D 2F 04 CF B5 61 DE 8F 23 9A 65 15 5F 05 85 36>)
+##END=
+
+$$ hash MD5
+$$ AA 1F 17 25 69 0C 5A 5D FE 09 D1 B1 2A FC 41 39

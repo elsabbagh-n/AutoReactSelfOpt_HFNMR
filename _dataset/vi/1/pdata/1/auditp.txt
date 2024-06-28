@@ -1,0 +1,66 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/nmrdata/user/nmr/Nour/NES_240425_BBI_CheckChemReact/76/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-04-25 15:31:21.858 +0200>,<nmr>,<CZC912DKQJ>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2024-04-25 15:31:00.057 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       37 87 CB CF 69 69 84 87 10 B8 15 B5 22 D1 34 37
+       data hash MD5: 131K
+       C0 4F B3 8F 59 71 7A D9 33 C9 15 88 8B B4 B1 96>)
+(   2,<2024-04-25 15:31:58.628 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -306.9892 PHC1 = 13.45121 SI = 64K 
+       data hash MD5: 64K
+       64 98 E4 F6 01 80 0C 09 5C 1E F5 80 74 98 8E EF>)
+(   3,<2024-04-25 15:31:58.658 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       F4 90 03 66 CF F9 88 8C 26 8E BE 4D 65 5D 20 AB>)
+$$ C:\Users\elsabbagh-n\Documents\DataSet/NES_240425_BBI_CheckChemReact/76/pdata/1/auditp.txt
+(   4,<2024-04-26 14:13:00.724 +0200>,<elsabbagh-n>,<P21-17>,<proc1d>,<TopSpin 4.0.7>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       06 36 D7 B2 68 05 8A 8A 73 82 75 10 07 36 B6 11>)
+(   5,<2024-04-26 14:13:16.238 +0200>,<elsabbagh-n>,<P21-17>,<proc1d>,<TopSpin 4.0.7>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+(   6,<2024-04-26 15:33:41.618 +0200>,<elsabbagh-n>,<P21-17>,<dataserver>,<TopSpin 4.0.7>,
+      <INTEGRAL 2024-04-26 15:32:36.437 +0200
+       DEFINE [6.573;6.510]
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+(   7,<2024-04-26 15:33:41.624 +0200>,<elsabbagh-n>,<P21-17>,<dataserver>,<TopSpin 4.0.7>,
+      <INTEGRAL 2024-04-26 15:32:39.358 +0200
+       DEFINE [6.204;6.146]
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+(   8,<2024-04-26 16:00:00.603 +0200>,<elsabbagh-n>,<P21-17>,<dataserver>,<TopSpin 4.0.7>,
+      <INTEGRAL 2024-04-26 15:41:11.532 +0200
+       DELETE [6.204;6.146]
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+(   9,<2024-04-26 16:00:00.612 +0200>,<elsabbagh-n>,<P21-17>,<dataserver>,<TopSpin 4.0.7>,
+      <INTEGRAL 2024-04-26 15:41:13.145 +0200
+       DEFINE [6.201;6.165]
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+(  10,<2024-04-26 16:00:00.612 +0200>,<elsabbagh-n>,<P21-17>,<dataserver>,<TopSpin 4.0.7>,
+      <INTEGRAL 2024-04-26 15:59:49.347 +0200
+       DEFINE [7.166;5.815]
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+(  11,<2024-04-26 16:00:00.612 +0200>,<elsabbagh-n>,<P21-17>,<dataserver>,<TopSpin 4.0.7>,
+      <INTEGRAL 2024-04-26 15:59:59.220 +0200
+       DELETE [7.166;5.815]
+       data hash MD5: 64K
+       92 DE C0 4D 84 2B 70 96 5E ED 0B 09 27 86 1C D5>)
+##END=
+
+$$ hash MD5
+$$ 77 50 13 FF 38 9D 77 73 7B DD 7C CE F4 89 23 BF

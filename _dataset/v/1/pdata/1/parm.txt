@@ -1,0 +1,38 @@
+
+Current Data Parameters
+NAME     NES_240528_BBI_CheckPurProd              
+EXPNO                 6              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240529              
+Time               5.09 h            
+INSTRUM           spect              
+PROBHD   Z837501_0007 (              
+PULPROG              zg              
+TD               134144              
+SOLVENT            MeOD              
+NS                    8              
+DS                    4              
+SWH           10000.000 Hz           
+FIDRES         0.149094 Hz           
+AQ            6.7072001 sec          
+RG                 20.2              
+DW               50.000 usec         
+DE                15.48 usec         
+TE                298.0 K            
+D1           3.00000000 sec          
+TD0                   1              
+SFO1        500.1325006 MHz          
+NUC1                 1H              
+P1                10.00 usec         
+PLW1        14.41399956 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          500.1300000 MHz          
+WDW                  no              
+SSB      0              
+LB       0 Hz           
+GB       0              
+PC                 1.00              

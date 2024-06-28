@@ -1,0 +1,76 @@
+
+Current Data Parameters
+NAME     230720_desired              
+EXPNO                 2              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20230720              
+Time              13.52 h            
+INSTRUM           spect              
+PROBHD   Z837501_0007 (              
+PULPROG             wet              
+TD                65536              
+SOLVENT            MeOD              
+NS                    1              
+DS                    0              
+SWH           10000.000 Hz           
+FIDRES         0.305176 Hz           
+AQ            3.2767999 sec          
+RG                    1              
+DW               50.000 usec         
+DE                11.25 usec         
+TE                298.0 K            
+D1           5.00000000 sec          
+D12          0.00002000 sec          
+D13          0.00000400 sec          
+D16          0.00200000 sec          
+TD0                   1              
+SFO1        500.1325006 MHz          
+NUC1                 1H              
+P1                10.00 usec         
+P11            15000.00 usec         
+PLW0                  0 W            
+PLW1        14.41399956 W            
+SPNAM[7] nes_seduce_etoh_15ms              
+SPOAL7            1.000              
+SPOFFS7               0 Hz           
+SPW7         0.00023933 W            
+SPNAM[8] nes_seduce_etoh_15ms              
+SPOAL8            1.000              
+SPOFFS8               0 Hz           
+SPW8         0.00037154 W            
+SPNAM[9] nes_seduce_etoh_15ms              
+SPOAL9            1.000              
+SPOFFS9               0 Hz           
+SPW9         0.00017338 W            
+SPNAM[10 nes_seduce_etoh_15ms              
+SPOAL10           1.000              
+SPOFFS10              0 Hz           
+SPW10        0.00093541 W            
+GPNAM[21     SMSQ10.100              
+GPX21                 0 %            
+GPY21                 0 %            
+GPZ21             80.00 %            
+GPNAM[22     SMSQ10.100              
+GPX22                 0 %            
+GPY22                 0 %            
+GPZ22             40.00 %            
+GPNAM[23     SMSQ10.100              
+GPX23                 0 %            
+GPY23                 0 %            
+GPZ23             20.00 %            
+GPNAM[24     SMSQ10.100              
+GPX24                 0 %            
+GPY24                 0 %            
+GPZ24             10.00 %            
+P16             1000.00 usec         
+
+F2 - Processing parameters
+SI                65536              
+SF          500.1300000 MHz          
+WDW                  no              
+SSB                   0              
+LB                    0 Hz           
+GB                    0              
+PC                 1.00              

@@ -1,0 +1,8 @@
+final reaction mixture 22.9481 min ; 1.5424 eq citral ; 0.058967 eq ethanolamine
+expected yield 88% concenration 118.9671 mmo/L
+Volume in tube = 0.6 mL
+Reactor volume = 4.5 mL without flow tube inlet
+Ftot=0.196 mL/min
+F1=0.053 mL/min	0.5M cyclo + 0.125M TMB
+F2=0.081 mL/min	0.5M citral
+F3=0.062 mL/min	0.025M ethanolamine

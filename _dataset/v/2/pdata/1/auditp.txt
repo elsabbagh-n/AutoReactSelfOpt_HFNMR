@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 4.0.7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= elsabbagh-n
+$$ C:\Users\elsabbagh-n\Documents\DataSet/NES_240528_BBI_CheckPurProd/5/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-05-29 05:02:16.573 +0200>,<nmr>,<CZC912DKQJ>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2024-05-28 17:55:30.728 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       73 52 23 60 6A E3 54 4C CB 79 16 96 1C 81 93 C5
+       data hash MD5: 260K
+       1C DF E2 A7 63 5A 6B 14 61 2E 4A 5C E8 0A C0 DE>)
+(   2,<2024-05-30 12:28:31.057 +0200>,<elsabbagh-n>,<P21-17>,<proc1d>,<TopSpin 4.0.7>,
+      <Start of raw data processing
+       efp LB = 0.5 FT_mod = 6 PKNL = 1 PHC0 = 36.93665 PHC1 = -79.13598 SI = 32K 
+       data hash MD5: 32K
+       EB 28 4A B7 B9 2F E1 92 A9 7F D6 56 DE FB 0D 48>)
+##END=
+
+$$ hash MD5
+$$ 1B FF 5B A0 4D DA F1 8B 25 29 B2 CF EC B5 8A F9

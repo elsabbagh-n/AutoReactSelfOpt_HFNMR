@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ /opt/nmrdata/user/nmr/Nour/230725_plateau/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-07-25 09:15:08.218 +0200>,<nmr>,<CZC912DKQJ>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2023-07-25 09:14:52.050 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       08 AA 97 EE F2 54 EF E2 36 10 4B AB B0 0F 87 5B
+       data hash MD5: 64K
+       C2 C8 AA C8 DE 98 15 38 1F EF 10 3A A3 82 75 59>)
+(   2,<2023-07-25 09:15:08.248 +0200>,<nmr>,<CZC912DKQJ>,<audit>,<TopSpin 3.6.2>,
+      <user comment:
+       ICON-NMR User ID: Nour
+       data hash MD5: 64K
+       C2 C8 AA C8 DE 98 15 38 1F EF 10 3A A3 82 75 59>)
+(   3,<2023-07-25 09:15:08.545 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <Start of raw data processing
+       fp FT_mod = 6 PKNL = 1 PHC0 = -142.6274 PHC1 = -2.754341 SI = 64K 
+       data hash MD5: 64K
+       75 A7 F7 71 B7 AA A8 AB 34 E8 A1 3F E0 2E 51 D9>)
+(   4,<2023-07-25 09:15:08.553 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       C8 F1 19 14 BB 39 21 C3 1B EC 0D 1B 1C 68 BF 19>)
+(   5,<2023-07-25 09:15:08.589 +0200>,<nmr>,<CZC912DKQJ>,<proc1d>,<TopSpin 3.6.2>,
+      <abs n ABSG = 5 
+       data hash MD5: 64K
+       88 69 7C 98 BF E8 95 92 DA A2 E7 5D AF 09 68 C4>)
+##END=
+
+$$ hash MD5
+$$ ED 44 1A 7F 34 87 68 DF 06 DF B4 20 BF D5 BF 63

@@ -1,0 +1,5 @@
+   Current data set:
+   NAME =	NES_230720_BBI_PrepareChemReact	EXPNO =	9	PROCNO = 1
+   DU   =	/opt/nmrdata/user/nmr/Nour
+
+   Number   Integrated Region     Integral

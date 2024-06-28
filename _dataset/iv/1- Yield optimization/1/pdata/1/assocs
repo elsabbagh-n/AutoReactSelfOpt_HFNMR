@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= elsabbagh-n
+$$ 2024-04-02 15:30:14.437 +0200  elsabbagh-n@P21-17
+$$ C:/Users/elsabbagh-n/Documents/_UNC/7- Optimization results/Dataset/230720_desired_Yield/1/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.7\prog\mod\dataserver.exe
+##$MULTDISP= <C:\Users\elsabbagh-n\Documents\_UNC\7- Optimization results\Dataset\230720_desired_Yield\3\pdata\1|C:\Users\elsabbagh-n\Documents\_UNC\7- Optimization results\Dataset\230720_desired_Yield\5\pdata\1|C:\Users\elsabbagh-n\Documents\_UNC\7- Optimization results\Dataset\230720_desired_Yield\23\pdata\1>
+##END=

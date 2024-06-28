@@ -1,0 +1,9 @@
+   Current data set:
+   NAME = 230720_desired   EXPNO =    23   PROCNO =     1
+   DATPATH = /opt/nmrdata/user/nmr/Nour
+
+   Number   Integrated Region     Integral
+     1     10.000      9.500      2.29847e+08 
+     2      6.340      6.130      6.83797e+08 
+     3      6.000      5.800      6.29733e+08 
+     4      2.000      1.000      1.11762e+10 

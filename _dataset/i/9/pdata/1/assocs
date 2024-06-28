@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmr
+$$ 2023-09-25 21:18:32.397 +0200  elsabbagh-n@P21-17
+$$ C:/Users/elsabbagh-n/Documents/DataSet/NES_230720_BBI_PrepareChemReact/9/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.7\prog\mod\dataserver.exe
+##$MULTDISP= <C:\Users\elsabbagh-n\Documents\DataSet\NES_230720_BBI_PrepareChemReact\19\pdata\1>
+##END=
