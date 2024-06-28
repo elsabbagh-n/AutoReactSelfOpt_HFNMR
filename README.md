@@ -34,7 +34,7 @@ contains Bruker datasets of the experiments carried out in this work. It include
   (vi) 1D 1H NMR spectra with a WET block for solvent suppression were acquired at high and low-field on the same reaction sample in an NMR tube.
 
 ### (i) NMR profile of the prepared stock solutions:
-The subfolder _dataset with the same title contains: 
+The subfolder in _dataset with the same title contains: 
 
     Experiments	  #5	stock solution of the limiting reagent	(S1)
 		          #7	stock solution of the excess reagent	(S2)
@@ -44,7 +44,7 @@ The subfolder _dataset with the same title contains:
 
 
 ### (ii) Monitoring of the arrival of the mixture of interest to the detection zone:
-The subfolder _dataset with the same title contains: 
+The subfolder in _dataset with the same title contains: 
 
     File		  1- Plateau search major change
     
@@ -54,6 +54,7 @@ The subfolder _dataset with the same title contains:
 		          flow rate of 0.450 mL/min
 		          reaction run with 10.0 min residence time, 1.53 equiv of citral, 0.04 equiv of catalyst
 		          reaction run launched at 09:13:46
+		          previous reaction conditions: only ethanol in flow system
 
 
     File		  2- Plateau search minor change
@@ -64,10 +65,11 @@ The subfolder _dataset with the same title contains:
 		          flow rate of 0.433 mL/min
 		          reaction run with 10.4 min residence time, 1.59 equiv of citral, 0.05 equiv of catalyst
 		          reaction run launched at 10:33:40
+		          previous reaction conditions: 10 min residence time, 1.43 equiv of citral, 0.08 equiv of catalyst
 
 
 ### (iii) Screening reaction mixtures of different residence times:
-The subfolder _dataset with the same title contains: 
+The subfolder in _dataset with the same title contains: 
 
     Experiments	  #1,3,5,7,9,11
     
@@ -83,7 +85,7 @@ The subfolder _dataset with the same title contains:
 
 
 ### (iv) Screening reaction mixtures during autonomous self-optimization:
-The subfolder _dataset with the same title contains: 
+The subfolder in _dataset with the same title contains: 
 
     File		  1- Yield optimization
     
@@ -100,21 +102,30 @@ The subfolder _dataset with the same title contains:
 
 
 ### (v) 1H and 13C NMR profile of the purified product:
-The subfolder _dataset with the same title contains: 
+The subfolder in _dataset with the same title contains: 
 
-    Experiments	  #X	1D 1H NMR spectrum
-		          #Y	1D 13C NMR spectrum
+    Experiments	  #1	1D 1H NMR spectrum
+		          #2	1D 13C NMR spectrum
 
     Description	  sample introduced into a 5 mm NMR tube
 
 
 ### (vi) High vs low-field NMR screening of the reaction mixture:
-The subfolder _dataset with the same title contains: 
+The subfolder in _dataset with the same title contains: 
 
-    Experiments	  #X	1D 1H NMR spectrum at high-filed (Bruker)
-		          #Y	1D 1H NMR spectrum at low-filed (Magritek)
+    Experiments	  #1	1D 1H NMR spectrum at high-filed (Bruker)
+		          #2	1D 1H NMR spectrum at low-filed (Magritek)
 
     Description	  samples introduced into a 5 mm NMR tube
+
+
+### (vii) HRMS analysis on the purified product:
+The subfolder in _dataset with the same title contains: 
+
+    File		  HRMS_results
+
+    Description	  1.49 g were analyzed through HRMS
+		          MeOH/H2O (95/5)
 
 
 ## Matlab scripts
@@ -128,7 +139,7 @@ In the subfolder
 
     _HFC_interface/matlab_scripts
     
-[Bried description of the scripts]
+we provide the Matlab scripts that allowed the automatic control of the high-field spectrometer, through WLAN, in our autonomous self-optimization platform.
 
 Using our HFC interface to control the high-field NMR spectrometer, instruction text files have to be exchanged between the interface on MATLAB and IconNMR/TopSpin on the spectrometer's computer.
 
